@@ -50,5 +50,5 @@ It highlights my ability to analyze data, apply logic using Excel functions, and
 
 📸 Screenshots
 
-Show what dashboard look like. - ![Alt text](https://github.com/Radhika-Sonar/Call-Centre-Report/blob/main/Project%20SS1.jpeg)
-Example: ![Dashboard Preview].(https://github.com/Radhika-Sonar/Call-Centre-Report/blob/main/Project%20SS1.jpeg)
+Show what dashboard look like. - ![Alt text](https://github.com/radhikasonar21/Call-Centre-Report/blob/main/Project%20SS1.jpeg)
+Example: ![Dashboard Preview].(https://github.com/radhikasonar21/Call-Centre-Report/blob/main/Project%20SS1.jpeg)
