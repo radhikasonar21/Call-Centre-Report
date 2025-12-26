@@ -6,6 +6,7 @@
 This project focuses on analyzing call centre performance data and presenting it through an interactive dashboard built entirely in Microsoft Excel.
 The objective was to transform raw operational data into clear, actionable business insights that can support decision-making at both managerial and operational levels.
 
+
 🎯 Objectives
 
 -Analyze call volume trends across time
@@ -13,6 +14,7 @@ The objective was to transform raw operational data into clear, actionable busin
 -Measure customer satisfaction using rating metrics
 -Compare agent and city-wise performance
 -Build an interactive, user-friendly dashboard using Excel
+
 
 🛠 Tools & Techniques Used
 
@@ -28,6 +30,7 @@ The objective was to transform raw operational data into clear, actionable busin
 -Conditional Formatting to highlight key performance indicators
 -Slicers for dynamic filtering and interactivity
 
+
 📈 Key Insights Delivered
 
 -Call volume trends across different time periods
@@ -36,6 +39,7 @@ The objective was to transform raw operational data into clear, actionable busin
 -Customer satisfaction metrics
 -Interactive drill-down using slicers
 
+
 🧩 Dashboard Features
 
 -KPI cards for quick performance overview
@@ -43,10 +47,12 @@ The objective was to transform raw operational data into clear, actionable busin
 -Clean and professional dashboard layout
 -Fully dynamic Excel dashboard
 
+
 ✅ Conclusion
 
 This project demonstrates how Excel formulas, Pivot Tables, and formatting techniques can be effectively used to build an interactive analytics dashboard.
 It highlights my ability to analyze data, apply logic using Excel functions, and present insights in a business-friendly manner.
+
 
 📸 Screenshots
 
